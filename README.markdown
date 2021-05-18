@@ -19,7 +19,18 @@ The goal of this project is to build an open source app for geolocated audio-tou
 Geolocation (also known as geotracking, geolocalization, or geopositioning) is the process of finding, determining and providing the exact location of a computer, networking device or equipment. It enables device location based on geographical coordinates and measurements. The coordinates are identified on a map to provide a complete address that usually includes a country, city, town/colony, building name and street address. Positions can also be expressed as a bearing and range from a known landmark. In this project, geolocation is used to make audio-tours for canal excursions.  
 WE NEED MORE EXPLANATION OF WHAT THE TOUR IS ABOUT HERE: IS IT FOLLOWING MONUMENTS, LANDMARKS? IS IT FOR A SPECIAL AUDIENCE (SCHOOL KIDS, ELDERLY, DISABLED PEOPLE)? IS IT FREE?
 
-In the initial phase, the app will be built with vanilla JavaScript, HTML and CSS. We will also be using HTML5 audio player and possibly video. 
+In the initial phase, the app will be built with vanilla JavaScript, HTML and CSS. We will also be using HTML5 audio player, and possibly video.
+
+**MPV**  PLEASE ADD OR DELETE, I AM NOT SURE WHAT THE FUNCTIONALITY OF THE APP IS GOING TO BE
+
+* the user can create an account
+* the user can log in to their account
+* the user can log out of their account
+* the user can delete their account
+* the user can choose their audio tour
+* the user can start the audio tour
+* the user can pause the audio tour
+* the user can stop the audio tour and return to the home screen
 
 
 
