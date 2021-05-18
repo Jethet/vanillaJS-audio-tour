@@ -2,7 +2,7 @@
 
 *under construction*
 
-A project for creating geolocated audio-tours.            <img src="/audio_tour.jpg" width="250"  />
+A project for creating geolocated audio-tours.                    <img src="/audio_tour.jpg" width="250"  />
 
 
 **Instructions**
@@ -21,8 +21,9 @@ WE NEED MORE EXPLANATION OF WHAT THE TOUR IS ABOUT HERE: IS IT FOLLOWING MONUMEN
 
 In the initial phase, the app will be built with vanilla JavaScript, HTML and CSS. We will also be using HTML5 audio player, and possibly video.
 
-**MPV**  PLEASE ADD OR DELETE, I AM NOT SURE WHAT THE FUNCTIONALITY OF THE APP IS GOING TO BE
+**MPV** PLEASE ADD OR DELETE, I AM NOT SURE WHAT THE FUNCTIONALITY OF THE APP IS GOING TO BE  
 
+In the initial phase, the app will be built to include the following functionality:
 * the user can create an account
 * the user can log in to their account
 * the user can log out of their account
@@ -35,6 +36,7 @@ In the initial phase, the app will be built with vanilla JavaScript, HTML and CS
 
 **Backlog**  PLEASE ADD OR DELETE
 
+In a later phase, possible options to consider are:
 * add functionality to choose a language
 * add functionality to star places as favourites
 * add functionality to save a map of the tour
