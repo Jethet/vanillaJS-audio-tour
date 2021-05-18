@@ -31,8 +31,23 @@ In the initial phase, the app will be built with vanilla JavaScript, HTML and CS
 * the user can start the audio tour
 * the user can pause the audio tour
 * the user can stop the audio tour and return to the home screen
+* .... ?
 
+**Backlog**  PLEASE ADD OR DELETE
 
+* add functionality to choose a language
+* add functionality to star places as favourites
+* add functionality to save a map of the tour
+* .... ?
+
+**Technology used**
+
+* HTML/CSS
+* JavaScript
+
+**Deployment**
+
+The app is deployed on Heroku (WE CAN ADD THE LINK TO THE MAIN DEPLOYMENT HERE IF WE LIKE)
 
 
 
