@@ -1,13 +1,12 @@
 # Audio Tour Demo
 
-A project for creating geolocated audio-tours.
-
-<img src="/audio_tour.jpg" width="200"  />
+A project for creating geolocated audio-tours.            <img src="/audio_tour.jpg" width="250"  />
 
 
 **Instructions**
 
 Run npm install and then run npm start to start the project. For full testing it needs to be deployed on a public server and the webpaged accessed with a smartphone.
+___
 
 The goal of this project is to build an open source app for geolocated audio-tours. The app will be used by a non-profit in Scotland but the code is available to anyone who wants to build/improve the app. It is a project created by students and junior developers who found each other through [codebar.io](https://www.codebar.io/).
 
