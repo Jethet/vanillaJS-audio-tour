@@ -32,6 +32,7 @@ In the initial phase, the app will be built to include the following functionali
 * the user can select their audio tour by clicking on the screen
 * the user can choose their preferred language by clicking it in the drop-down menu
 * after the selection, the user sees a confirmation on the screen and can start the audio tour by clicking the start button
+* the user has the option to go back to the previous screens to change their selection of tour and/or language
 * when the tour starts, the user will see 'Points of Interest' images on the screen together with an audio bar
 * the user can start and stop the audio and can control the volume
 * the user may see a button that can be clicked for additional information about a PoI
@@ -49,7 +50,8 @@ IS THE APPEAL AND DONATION PAGE SHOWING UP AUTOMATICALLY? AFTER THE 'END' PAGE? 
 Possible options to consider are:
 * option to stop the audio tour and return to the home screen
 * add functionality to download a map of the tour
-* .... ?
+* accessibility features
+* ... ?
 
 **Technology used**
 
