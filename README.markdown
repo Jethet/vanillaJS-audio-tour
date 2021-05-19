@@ -47,9 +47,8 @@ IS THE APPEAL AND DONATION PAGE SHOWING UP AUTOMATICALLY? AFTER THE 'END' PAGE? 
 **Backlog**  PLEASE ADD OR DELETE
 
 Possible options to consider are:
-* the user can stop the audio tour and return to the home screen
-* add functionality to star places as favourites
-* add functionality to save a map of the tour
+* option to stop the audio tour and return to the home screen
+* add functionality to download a map of the tour
 * .... ?
 
 **Technology used**
@@ -59,7 +58,7 @@ Possible options to consider are:
 
 **Deployment**
 
-The app is deployed on Heroku (WE CAN ADD THE LINK TO THE MAIN DEPLOYMENT HERE IF WE LIKE)
+The app is deployed on Heroku (WE CAN ADD THE LINK TO THE MAIN DEPLOYMENT HERE IN THE README)
 
 
 
