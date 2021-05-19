@@ -21,20 +21,28 @@ Geolocation (also known as geotracking, geolocalization, or geopositioning) is t
 In this project, geolocation is used to make audio-tours for canal excursions. Our client wants the app to provide their guests with historical and other local information during their canal tours, preferably also in other languages for their foreign visitors. The app should have a database for images, audio files and other content. Other requirements include off-line operation of the app.
 
 
-In the initial phase, the app will be built with vanilla JavaScript, HTML and CSS. We will also be using HTML5 audio player, and possibly video.
+In the initial phase, the app will be built with vanilla JavaScript, HTML and CSS. We will also be using HTML5 audio player, and possibly video. For the database, we will look at options such as hosting it on the client's website.
 
-**MPV** PLEASE ADD OR DELETE, I AM NOT SURE WHAT THE FUNCTIONALITY OF THE APP IS GOING TO BE  
+**MPV**  
 
 In the initial phase, the app will be built to include the following functionality:
 * the user will see a welcome page when opening the app
 * the user can log in with either an access code or QR code
-* the user enters a screen with access to the tours after accessing the app
+* after accessing the app, the user enters a screen with access to the tours 
 * the user can select their audio tour by clicking on the screen
-* the user can choose their preferred language from a drop-down menu
+* the user can choose their preferred language by clicking it in the drop-down menu
 * after the selection, the user sees a confirmation on the screen and can start the audio tour by clicking the start button
-
-
-* .... ?
+* when the tour starts, the user will see 'Points of Interest' images on the screen together with an audio bar
+* the user can start and stop the audio and can control the volume
+* the user may see a button that can be clicked for additional information about a PoI
+* the user may see hyperlinks that can be clicked for information on other attractions
+* the user can click on the sidebar next to a PoI image and this will show a map of the tour and their location based on GPS.
+* the user can close the screen with the map and return to the tour
+* at the end of the tour, the user enters a final screen with a button to go to a survey  ????
+CAN THE USER SKIP THE SURVEY, SHOULD WE ADD A 'NOT NOW' BUTTON OR SOMETHING LIKE THAT?
+* the user can click the button to take the survey and submit it using the submit button
+* the user will enter the 'Appeal & Donation Page' ????
+IS THE APPEAL AND DONATION PAGE SHOWING UP AUTOMATICALLY? AFTER THE 'END' PAGE? AFTER THE SURVEY PAGE? OR DOES THE USER HAVE TO CLICK TO SEE IT?
 
 **Backlog**  PLEASE ADD OR DELETE
 
