@@ -21,7 +21,7 @@ Geolocation (also known as geotracking, geolocalization, or geopositioning) is t
 In this project, geolocation is used to make audio-tours for canal excursions. Our client wants the app to provide their guests with historical and other local information during their canal tours, preferably also in other languages for their foreign visitors. The app should have a database for images, audio files and other content. Other requirements include off-line operation of the app.
 
 
-In the initial phase, the app will be built with vanilla JavaScript, HTML and CSS. We will also be using HTML5 audio player, and possibly video. For the database, we will look at options such as hosting it on the client's website.
+In the initial phase, the app will be built with JavaScript, React Native, HTML and CSS. We will also be using HTML5 audio player, and possibly video. For the database, we will look at options such as hosting it on the client's website.
 
 
 The client wants the app to include the following functionality:
@@ -54,6 +54,7 @@ The client wants the app to include the following functionality:
 
 * HTML/CSS
 * JavaScript
+* React Native
 
 **Deployment**
 
