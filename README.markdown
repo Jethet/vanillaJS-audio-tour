@@ -44,11 +44,12 @@ The client wants the app to include the following functionality:
 
 **MPV**  
 1. the user can download the app from the app store
-1. the user sees a welcome screen when opening the app
-1. the uesr can select a language
-1. the user is shown multiple audio files that can be played
-1. the user can select an audio file
-1. the user can skip the audio file and go back to the audio overview screen
+2. the user can use the app offline
+3. the user sees a welcome screen when opening the app
+4. the uesr can select a language
+5. the user is shown multiple audio files that can be played
+6. the user can select an audio file
+7. the user can skip the audio file and go back to the audio overview screen
 
 **Technology used**
 
