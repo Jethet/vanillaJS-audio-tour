@@ -23,9 +23,8 @@ In this project, geolocation is used to make audio-tours for canal excursions. O
 
 In the initial phase, the app will be built with vanilla JavaScript, HTML and CSS. We will also be using HTML5 audio player, and possibly video. For the database, we will look at options such as hosting it on the client's website.
 
-**MPV**  
 
-In the initial phase, the app will be built to include the following functionality:
+The client wants the app to include the following functionality:
 * the user will see a welcome page when opening the app
 * the user can log in with either an access code or QR code
 * after accessing the app, the user enters a screen with access to the tours 
@@ -39,19 +38,17 @@ In the initial phase, the app will be built to include the following functionali
 * the user may see hyperlinks that can be clicked for information on other attractions
 * the user can click on the sidebar next to a PoI image and this will show a map of the tour and their location based on GPS.
 * the user can close the screen with the map and return to the tour
-* at the end of the tour, the user enters a final screen with a button to go to a survey  ????
-CAN THE USER SKIP THE SURVEY, SHOULD WE ADD A 'NOT NOW' BUTTON OR SOMETHING LIKE THAT?
+* at the end of the tour, the user enters a final screen with a button to go to a survey
 * the user can click the button to take the survey and submit it using the submit button
-* the user will enter the 'Appeal & Donation Page' ????
-IS THE APPEAL AND DONATION PAGE SHOWING UP AUTOMATICALLY? AFTER THE 'END' PAGE? AFTER THE SURVEY PAGE? OR DOES THE USER HAVE TO CLICK TO SEE IT?
+* the user will enter the 'Appeal & Donation Page' and can donate money
 
-**Backlog**  PLEASE ADD OR DELETE
-
-Possible options to consider are:
-* option to stop the audio tour and return to the home screen
-* add functionality to download a map of the tour
-* accessibility features
-* ... ?
+**MPV**  
+1. the user can download the app from the app store
+1. the user sees a welcome screen when opening the app
+1. the uesr can select a language
+1. the user is shown multiple audio files that can be played
+1. the user can select an audio file
+1. the user can skip the audio file and go back to the audio overview screen
 
 **Technology used**
 
