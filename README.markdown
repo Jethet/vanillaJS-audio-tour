@@ -48,8 +48,11 @@ The client wants the app to include the following functionality:
 3. the user sees a welcome screen when opening the app
 4. the uesr can select a language
 5. the user is shown multiple audio files that can be played
-6. the user can select an audio file
+6. the user can select an audio file for a tour
 7. the user can skip the audio file and go back to the audio overview screen
+
+**Backlog**
+1. backend: simple database using personal email addresses linked to unique login code
 
 **Technology used**
 
