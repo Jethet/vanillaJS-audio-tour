@@ -50,9 +50,8 @@ The client wants the app to include the following functionality:
 5. the user is shown multiple audio files that can be played
 6. the user can select an audio file for a tour
 7. the user can skip the audio file and go back to the audio overview screen
+8. backend: simple database using personal email addresses linked to unique login code
 
-**Backlog**
-1. backend: simple database using personal email addresses linked to unique login code
 
 **Technology used**
 
