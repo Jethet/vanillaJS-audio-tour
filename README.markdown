@@ -46,7 +46,7 @@ The client wants the app to include the following functionality:
 1. the user can download the app from the app store
 2. the user can use the app offline
 3. the user sees a welcome screen when opening the app
-4. the uesr can select a language
+4. the user can select a language
 5. the user is shown multiple audio files that can be played
 6. the user can select an audio file for a tour
 7. the user can skip the audio file and go back to the audio overview screen
