@@ -42,7 +42,7 @@ The client wants the app to include the following functionality:
 * the user can click the button to take the survey and submit it using the submit button
 * the user will enter the 'Appeal & Donation Page' and can donate money
 
-**MPV**  
+**MVP**  
 1. the user can download the app from the app store
 2. the user can use the app offline
 3. the user sees a welcome screen when opening the app
